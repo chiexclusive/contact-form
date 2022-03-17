@@ -1,0 +1,7 @@
+/*CONTACT FORM STYLES*/
+.contact-card{
+	border-radius: 5px;
+    box-shadow: 0px 0px 5px #cdcdcde0;
+    padding: 10px;
+    background: white;
+}
