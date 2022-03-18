@@ -5,14 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #e8f1efbf;
   width: 100%;
   height: 100%;
+  background : #F6FAF9 !important;
+	width: 100%;
+	height: 100%;
 }
 
 html {
-	height: 100%;
-	width: 100%;
+	height: 100% !important;
+	width: 100% !important;
 }
 
 code {
